@@ -1,11 +1,14 @@
 ## Olá, seja bem-vindo(a) ao meu portfólio!
 Meu nome é José Lucas. 😁
 
-- 📖 **Sou discípulo de JESUS CRISTO**;
+- 📖 **Discípulo de JESUS CRISTO**;
 - 💻 Estudando _Back-end development_;
-- 👨🏻‍💻 Conhecimentos de _Front-end_: JavaScript | HTML | CSS;
-- 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript;
-- 🌐️ Frameworks: React.js | Springboot
+- 👨🏻‍💻 Conhecimentos de _Front-end_:
+      HTML | CSS | JavaScript
+- 👨🏻‍💻 Conhecimentos de _Back-end_:
+      Java (POO) | Python | JavaScript
+- 🌐️ Frameworks:
+      React.js | Springboot
 
   ##
 
