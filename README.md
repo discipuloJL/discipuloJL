@@ -3,12 +3,9 @@ Meu nome é José Lucas. 😁
 
 - 📖 **Discípulo de JESUS CRISTO**;
 - 💻 Estudando _Back-end development_;
-- 👨🏻‍💻 Conhecimentos de _Front-end_:
-      HTML | CSS | JavaScript
-- 👨🏻‍💻 Conhecimentos de _Back-end_:
-      Java (POO) | Python | JavaScript
-- 🌐️ Frameworks:
-      React.js | Springboot
+- 👨🏻‍💻 Conhecimentos de _Front-end_: HTML | CSS | JavaScript
+- 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
+- 🌐️ Frameworks: React.js | Springboot
 
   ##
 
