@@ -1,4 +1,5 @@
-## Oi, eu sou o José Lucas, mas pode me chamar de JL 😁!
+## Olá, seja bem-vindo(a) ao meu portfólio!
+Oi, eu sou o José Lucas, mas pode me chamar de JL 😁!
 
 - 📖 **Cristão**
 - 😎️ **Cientista da computação - UFCG**;
