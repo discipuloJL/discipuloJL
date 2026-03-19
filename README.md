@@ -2,6 +2,7 @@
 Meu nome é José Lucas, mas também pode me chamar de JL 😁!
 
 - 💻 Ciência da Computação - UFCG;
+- 💻 Estudando _back-end development_;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: HTML | CSS | JavaScript
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
 - 🌐️ Frameworks: React.js | Springboot
