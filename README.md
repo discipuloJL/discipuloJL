@@ -1,7 +1,8 @@
 ## Olá, seja bem-vindo(a) ao meu portfólio!
-Meu nome é José Lucas. 😁
+## Oi, eu sou o José Lucas, mas pode me chamar de JL 😁!
 
-- 📖 **Discípulo de JESUS CRISTO**;
+- 📖 **Cristão
+- 😎️ **Cientista da computação - UFCG**;
 - 💻 Estudando _Back-end development_;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: HTML | CSS | JavaScript
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
